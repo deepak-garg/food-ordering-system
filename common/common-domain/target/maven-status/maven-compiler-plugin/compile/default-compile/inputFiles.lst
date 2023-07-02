@@ -1,0 +1,10 @@
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/valueobject/RestaurantId.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/valueobject/CustomerId.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/valueobject/OrderStatus.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/valueobject/ProductId.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/valueobject/Money.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/entity/BaseEntity.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/entity/AggregateRoot.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/event/DomainEvent.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/valueobject/OrderId.java
+/Users/shallytayal/Desktop/workspace/food-ordering-system/common/common-domain/src/main/java/com/food/ordering/system/domain/valueobject/BaseId.java
